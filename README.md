@@ -1,2 +1,2 @@
 # FirstRepository
-Shristi pandey
+Author - Shristi pandey
